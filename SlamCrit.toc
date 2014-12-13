@@ -1,7 +1,7 @@
-## Interface: 40300
+## Interface: 60000
 ## Title: SlamCrit
-## Notes: Plays a sound file when Slam critically hits
-## Version: 1.0
+## Notes: Plays a sound file when Slam or any other configured spell critically hits
+## Version: 1.1
 ## Author: Choonster
 
 core.lua
